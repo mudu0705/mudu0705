@@ -116,7 +116,7 @@ const mudu = {
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mudu0705/mudu0705/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
